@@ -1,5 +1,6 @@
 /*
 *@author: Jayant Kumar
+*
 *@version: v1.0
 */
 class CharacterPattern {
